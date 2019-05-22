@@ -1,0 +1,3 @@
+Download data from:
+__________________
+https://www.kaggle.com/utathya/imdb-review-dataset

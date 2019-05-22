@@ -1,0 +1,4 @@
+Download embedding from the link:
+--------------------------------
+
+https://nlp.stanford.edu/projects/glove/

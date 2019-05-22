@@ -1,4 +1,5 @@
 .DS_Store
+.ipynb_checkpoints
 embeddings/glove.6B/glove.6B.50d.txt 
 embeddings/glove.6B/glove.6B.100d.txt 
 embeddings/glove.6B/glove.6B.200d.txt 

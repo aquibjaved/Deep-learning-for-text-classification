@@ -1,0 +1,4 @@
+Download embedding from link:
+----------------------------
+
+https://code.google.com/archive/p/word2vec/
