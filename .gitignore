@@ -1,7 +1,7 @@
 .DS_Store
-./embeddings/glove.6B/glove.6B.50d.txt 
-./embeddings/glove.6B/glove.6B.100d.txt 
-./embeddings/glove.6B/glove.6B.200d.txt 
-./embeddings/glove.6B/glove.6B.300d.txt
-./Data/imdb_master.csv 
-./embeddings/word2vec/GoogleNews-vectors-negative300.bin 
+embeddings/glove.6B/glove.6B.50d.txt 
+embeddings/glove.6B/glove.6B.100d.txt 
+embeddings/glove.6B/glove.6B.200d.txt 
+embeddings/glove.6B/glove.6B.300d.txt
+Data/imdb_master.csv 
+embeddings/word2vec/GoogleNews-vectors-negative300.bin 
